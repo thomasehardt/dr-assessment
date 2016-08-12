@@ -1,0 +1,7 @@
+matched phrase: Ernst Haeckel
+matched phrase: Franz Ferdinand
+matched phrase: Austria-Hungary
+matched phrase: Gavrilo Princip
+matched phrase: Sarajevo
+matched phrase: Austria-Hungary
+matched phrase: Serbia

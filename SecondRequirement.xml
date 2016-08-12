@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<textBody>
+    <sentence>
+        <word type="word">
+            <value>The</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>term</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="punctuation">
+            <value>"</value>
+        </word>
+        <word type="word">
+            <value>First</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>World</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>War</value>
+        </word>
+        <word type="punctuation">
+            <value>"</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>was</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>first</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>used</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>in</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>September</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>1914</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>by</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>German</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>philosopher</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="phrase">
+            <value>Ernst Haeckel</value>
+        </word>
+        <word type="punctuation">
+            <value>,</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>who</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>claimed</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>that</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="punctuation">
+            <value>"</value>
+        </word>
+        <word type="word">
+            <value>there</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>is</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>no</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>doubt</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>that</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>course</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>and</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>character</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>of</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>feared</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="punctuation">
+            <value>'</value>
+        </word>
+        <word type="word">
+            <value>European</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>War</value>
+        </word>
+        <word type="punctuation">
+            <value>'</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="punctuation">
+            <value>.</value>
+        </word>
+        <word type="punctuation">
+            <value>.</value>
+        </word>
+        <word type="punctuation">
+            <value>.</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>will</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>become</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>first</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>world</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>war</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>in</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>full</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>sense</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>of</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>word</value>
+        </word>
+        <word type="punctuation">
+            <value>.</value>
+        </word>
+        <word type="punctuation">
+            <value>"</value>
+        </word>
+        <word type="whitespace">
+            <value>
+</value>
+        </word>
+        <word type="whitespace">
+            <value>
+</value>
+        </word>
+    </sentence>
+    <sentence>
+        <word type="word">
+            <value>Why</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>did</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>war</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>begin</value>
+        </word>
+        <word type="punctuation">
+            <value>?</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+    </sentence>
+    <sentence>
+        <word type="word">
+            <value>The</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>immediate</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>trigger</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>for</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>war</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>was</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>28</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>June</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>1914</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>assassination</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>of</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>Archduke</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="phrase">
+            <value>Franz Ferdinand</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>of</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>Austria</value>
+        </word>
+        <word type="punctuation">
+            <value>,</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>heir</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>to</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>throne</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>of</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="phrase">
+            <value>Austria-Hungary</value>
+        </word>
+        <word type="punctuation">
+            <value>,</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>by</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>Yugoslav</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>nationalist</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="phrase">
+            <value>Gavrilo Princip</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="punctuation">
+            <value>(</value>
+        </word>
+        <word type="word">
+            <value>19</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>years</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>old</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>at</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>time</value>
+        </word>
+        <word type="punctuation">
+            <value>)</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>in</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="phrase">
+            <value>Sarajevo</value>
+        </word>
+        <word type="punctuation">
+            <value>.</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+    </sentence>
+    <sentence>
+        <word type="word">
+            <value>This</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>set</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>off</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>a</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>diplomatic</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>crisis</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>when</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="phrase">
+            <value>Austria-Hungary</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>delivered</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>an</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>ultimatum</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>to</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>Kingdom</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>of</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="phrase">
+            <value>Serbia</value>
+        </word>
+        <word type="punctuation">
+            <value>,</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>and</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>entangled</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>international</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>alliances</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>formed</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>over</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>previous</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>decades</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>were</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>invoked</value>
+        </word>
+        <word type="punctuation">
+            <value>.</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+    </sentence>
+    <sentence>
+        <word type="word">
+            <value>Within</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>weeks</value>
+        </word>
+        <word type="punctuation">
+            <value>,</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>major</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>powers</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>were</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>at</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>war</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>and</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>conflict</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>soon</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>spread</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>around</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>the</value>
+        </word>
+        <word type="whitespace">
+            <value> </value>
+        </word>
+        <word type="word">
+            <value>world</value>
+        </word>
+        <word type="punctuation">
+            <value>.</value>
+        </word>
+    </sentence>
+</textBody>

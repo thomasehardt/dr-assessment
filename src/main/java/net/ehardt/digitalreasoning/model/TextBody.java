@@ -12,6 +12,10 @@ public class TextBody {
 	private List<Sentence> sentences = new ArrayList<>();
 	
 	public void parseTextBody(String s) {
+		parseTextBody(s, new ArrayList<String>());
+	}
+	
+	public void parseTextBody(String s, List<String> phrases) {
 		BreakIterator sbi = BreakIterator.getSentenceInstance();
 		sbi.setText(s);
 		
@@ -20,7 +24,7 @@ public class TextBody {
 			String sentenceText = s.substring(start, end);
 			
 			Sentence sentence = new Sentence();
-			sentence.parseSentence(sentenceText);
+			sentence.parseSentence(sentenceText, phrases);
 			
 			sentences.add(sentence);
 		}
@@ -30,6 +34,7 @@ public class TextBody {
 	public List<Sentence> getSentences() {
 		return sentences;
 	}
+	
 
 	public void setSentences(List<Sentence> sentences) {
 		this.sentences = sentences;
