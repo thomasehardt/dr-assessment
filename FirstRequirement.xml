@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<textBody>
+    <sentence>
+        <sentenceComponent type="word">
+            <value>The</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>term</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>"</value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>First</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>World</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>War</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>"</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>was</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>first</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>used</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>in</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>September</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>1914</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>by</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>German</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>philosopher</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>Ernst</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>Haeckel</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>,</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>who</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>claimed</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>that</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>"</value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>there</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>is</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>no</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>doubt</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>that</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>course</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>and</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>character</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>of</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>feared</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>'</value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>European</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>War</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>'</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>.</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>.</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>.</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>will</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>become</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>first</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>world</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>war</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>in</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>full</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>sense</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>of</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>word</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>.</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>"</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value>
+</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value>
+</value>
+        </sentenceComponent>
+    </sentence>
+    <sentence>
+        <sentenceComponent type="word">
+            <value>Why</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>did</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>war</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>begin</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>?</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+    </sentence>
+    <sentence>
+        <sentenceComponent type="word">
+            <value>The</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>immediate</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>trigger</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>for</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>war</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>was</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>28</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>June</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>1914</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>assassination</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>of</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>Archduke</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>Franz</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>Ferdinand</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>of</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>Austria</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>,</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>heir</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>to</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>throne</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>of</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>Austria-Hungary</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>,</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>by</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>Yugoslav</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>nationalist</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>Gavrilo</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>Princip</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>(</value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>19</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>years</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>old</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>at</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>time</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>)</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>in</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>Sarajevo</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>.</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+    </sentence>
+    <sentence>
+        <sentenceComponent type="word">
+            <value>This</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>set</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>off</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>a</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>diplomatic</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>crisis</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>when</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>Austria-Hungary</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>delivered</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>an</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>ultimatum</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>to</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>Kingdom</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>of</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>Serbia</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>,</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>and</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>entangled</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>international</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>alliances</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>formed</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>over</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>previous</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>decades</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>were</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>invoked</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>.</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+    </sentence>
+    <sentence>
+        <sentenceComponent type="word">
+            <value>Within</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>weeks</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>,</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>major</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>powers</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>were</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>at</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>war</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>and</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>conflict</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>soon</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>spread</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>around</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>the</value>
+        </sentenceComponent>
+        <sentenceComponent type="whitespace">
+            <value> </value>
+        </sentenceComponent>
+        <sentenceComponent type="word">
+            <value>world</value>
+        </sentenceComponent>
+        <sentenceComponent type="punctuation">
+            <value>.</value>
+        </sentenceComponent>
+    </sentence>
+</textBody>
